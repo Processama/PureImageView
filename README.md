@@ -46,4 +46,5 @@ dependencies {
 ```
 ### 总结
     关于这个ImageView的介绍就到此为止了哈，使用起来比较简单，后续有bug或新功能再更新哦！！！
-  
+![alt text](https://vdn1.vzuu.com/SD/d4122296-2d8c-11eb-a1ac-faaeab4f2b8d.mp4?disable_local_cache=1&bu=pico&expiration=1606633492&auth_key=1606633492-0-0-4af756afe0cf56c46100a677402589a6&f=mp4&v=hw)
+    

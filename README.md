@@ -28,7 +28,7 @@ allprojects {
   #### Step 2.app目录中build.gradle在添加依赖:
 ```java
 dependencies {
-  implementation 'com.github.Processama:PureImageView:Tag'
+  implementation 'com.github.Processama:PureImageView:v1.1'
 }
 ```
   #### Step 3.使用该控件指定img类型等属性

@@ -1,0 +1,3 @@
+include ':PureImageView'
+include ':app'
+rootProject.name = "CustomImageView"
